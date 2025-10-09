@@ -1,1 +1,2 @@
 *.vsdx filter=lfs diff=lfs merge=lfs -text
+*.mxe filter=lfs diff=lfs merge=lfs -text
